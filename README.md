@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">A passionate Data Engineering student specializing.</h4>
+<h4 align="left">A passionate Data Engineering student.</h4>
 
 ###
 
