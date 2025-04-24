@@ -6,15 +6,44 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👩‍💻About me</h2>
 
 ###
 
-<p align="left">📚 I'm currently learning advanced data engineering, cloud computing & AI  <br>🎯 Goals: Become a top data engineer & contribute to impactful AI projects</p>
+<p align="left">📚 I'm currently diving deep into advanced data engineering, cloud computing, and artificial intelligence.<br>
+ 🎯 My goal is to become a top-tier data engineer and contribute to impactful AI-powered solutions that make a real difference.<br/>
+💡 Passionate about problem-solving, clean architecture, and intelligent systems, I enjoy building tools that are both powerful and user-friendly.</p>
 
 ###
+<h2 align="left">🚀 Projects</h2>
 
-<h2 align="left">I code with</h2>
+<h4 align="left">📚 AI-Powered Book Recommendation System</h4>
+<p>Built a smart book recommendation platform powered by an AI agent that personalizes suggestions based on user preferences. <br/>
+<b>Stack:</b> Flask, React.js, TypeScript, Bootstrap, Python</p>
+
+<h4 align="left">🧹 AI-Driven Cleaning Simulation Platform</h4>
+<p>Developed a web-based simulation featuring an autonomous AI agent capable of navigating and cleaning a dynamically generated environment.<br/>
+<b>Stack:</b> Flask, React.js, TypeScript, Bootstrap, Python</p>
+
+<h4 align="left">📦 Inventory Management Web Application</h4>
+<p>Designed and built a full-stack web application for managing inventory data efficiently. <br/>
+<b>Stack:</b> Flask, React.js, TypeScript, Bootstrap, Python</p>
+
+<h4 align="left">🧾 Automated Receipt Printing System</h4>
+<p>Developed a complete solution consisting of a web platform and a desktop application to automate receipt printing from an e-commerce platform.<br/>
+<b>Stack:</b> ReactJs, ElectronJs, NestJs</p>
+
+<h4 align="left">🧮 Invoice Generation Web Platform</h4>
+<p>Designed and implemented a web application for generating, viewing, and downloading invoices.<br/>
+<b>Stack:</b> React.js, Tailwind CSS, PostgreSQL, Strapi.js, Handlebars.js</p>
+
+<h4 align="left">🌍 World Exploration Mobile App</h4>
+<p>Designed and developed an immersive Android mobile application to promote global discovery through interactive features like quizzes and guessing games.<br/>
+<b>Stack:</b> Java, XML, Android Development</p>
+
+
+###
+<h2 align="left">🔧 My Tech Stack</h2>
 
 ###
 
