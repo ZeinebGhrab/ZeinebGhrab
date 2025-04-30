@@ -17,6 +17,10 @@
 ###
 <h2 align="left">🚀 Projects</h2>
 
+<h4 align="left">⚙️ MiniGit: Git-inspired lightweight version control system for Linux</h4>
+<p>Built a minimalist VCS in C for Linux, featuring SHA-256 file hashing, blob creation, WorkTree management, and filesystem snapshots.<br/>
+<b>Stack:</b> C, Linux, GCC</p>
+
 <h4 align="left">📚 AI-Powered Book Recommendation System</h4>
 <p>Built a smart book recommendation platform powered by an AI agent that personalizes suggestions based on user preferences. <br/>
 <b>Stack:</b> Flask, React.js, TypeScript, Bootstrap, Python</p>
