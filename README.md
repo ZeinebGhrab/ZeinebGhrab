@@ -25,19 +25,35 @@
 <p>Performed statistical analysis on stroke-related clinical data to explore associations between NIHSS scores, age, lifestyle factors, and stroke presence. Integrated visualizations and hypothesis testing for medical insights.<br/>
 <b>Stack:</b> Python, Pandas, SciPy, Seaborn, Matplotlib</p>
 
-<h4 align="left">⚙️ MiniGit: Git-inspired lightweight version control system for Linux</h4>
+<h4 align="left">⚙️ 
+ <a href="https://github.com/ZeinebGhrab/MiniGit">
+   MiniGit: Git-inspired lightweight version control system for Linux
+ </a>
+</h4>
 <p>Built a minimalist VCS in C for Linux, featuring SHA-256 file hashing, blob creation, WorkTree management, and filesystem snapshots.<br/>
 <b>Stack:</b> C, Linux, GCC</p>
 
-<h4 align="left">📚 AI-Powered Book Recommendation System</h4>
+<h4 align="left">📚 
+ <a href="https://github.com/ZeinebGhrab/BookMatch-AI">
+  AI-Powered Book Recommendation System
+ </a>
+ </h4>
 <p>Built a smart book recommendation platform powered by an AI agent that personalizes suggestions based on user preferences. <br/>
 <b>Stack:</b> Flask, React.js, TypeScript, Bootstrap, Python</p>
 
-<h4 align="left">🧹 AI-Driven Cleaning Simulation Platform</h4>
+<h4 align="left">🧹
+ <a href="https://github.com/ZeinebGhrab/CleanSim-App">
+  AI-Driven Cleaning Simulation Platform
+ </a>
+ </h4>
 <p>Developed a web-based simulation featuring an autonomous AI agent capable of navigating and cleaning a dynamically generated environment.<br/>
 <b>Stack:</b> Flask, React.js, TypeScript, Bootstrap, Python</p>
 
-<h4 align="left">📦 Inventory Management Web Application</h4>
+<h4 align="left">📦 
+ <a href="https://github.com/ZeinebGhrab/InvenPro">
+  Inventory Management Web Application
+ </a>
+ </h4>
 <p>Designed and built a full-stack web application for managing inventory data efficiently. <br/>
 <b>Stack:</b> Flask, React.js, TypeScript, Bootstrap, Python</p>
 
@@ -45,11 +61,19 @@
 <p>Developed a complete solution consisting of a web platform and a desktop application to automate receipt printing from an e-commerce platform.<br/>
 <b>Stack:</b> ReactJs, ElectronJs, NestJs</p>
 
-<h4 align="left">🧮 Invoice Generation Web Platform</h4>
+<h4 align="left">🧮 
+ <a href="https://github.com/ZeinebGhrab/Invoice_Generator">
+  Invoice Generation Web Platform
+ </a>
+</h4>
 <p>Designed and implemented a web application for generating, viewing, and downloading invoices.<br/>
 <b>Stack:</b> React.js, Tailwind CSS, PostgreSQL, Strapi.js, Handlebars.js</p>
 
-<h4 align="left">🌍 World Exploration Mobile App</h4>
+<h4 align="left">🌍 
+ <a href="https://github.com/ZeinebGhrab/Discover_world">
+  World Exploration Mobile App
+ </a>
+ </h4>
 <p>Designed and developed an immersive Android mobile application to promote global discovery through interactive features like quizzes and guessing games.<br/>
 <b>Stack:</b> Java, XML, Android Development</p>
 
