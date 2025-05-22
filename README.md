@@ -17,6 +17,14 @@
 ###
 <h2 align="left">🚀 Projects</h2>
 
+<h4 align="left">🧠
+  <a href="https://github.com/ZeinebGhrab/Thrombolysis-Factors-Analysis" target="_blank" style="text-decoration: none; color: inherit;">
+ Stroke Clinical Data Statistical Analysis
+  </a>
+ </h4>
+<p>Performed statistical analysis on stroke-related clinical data to explore associations between NIHSS scores, age, lifestyle factors, and stroke presence. Integrated visualizations and hypothesis testing for medical insights.<br/>
+<b>Stack:</b> Python, Pandas, SciPy, Seaborn, Matplotlib</p>
+
 <h4 align="left">⚙️ MiniGit: Git-inspired lightweight version control system for Linux</h4>
 <p>Built a minimalist VCS in C for Linux, featuring SHA-256 file hashing, blob creation, WorkTree management, and filesystem snapshots.<br/>
 <b>Stack:</b> C, Linux, GCC</p>
