@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">A passionate Data Engineering student.</h4>
+<h4 align="left">🧠 Data Engineering Enthusiast | Exploring AI, Machine Learning & Analytics</h4>
 
 ###
 
@@ -10,9 +10,12 @@
 
 ###
 
-<p align="left">📚 I'm currently diving deep into advanced data engineering, cloud computing, and artificial intelligence.<br>
- 🎯 My goal is to become a top-tier data engineer and contribute to impactful AI-powered solutions that make a real difference.<br/>
-💡 Passionate about problem-solving, clean architecture, and intelligent systems, I enjoy building tools that are both powerful and user-friendly.</p>
+<p align="left">📚I’m a Data Engineering and Decision Systems engineering student at ENET'Com, passionate about transforming data into actionable insights through statistics, machine learning, and AI. With a strong background in computer science and top academic performance, I enjoy building data-driven solutions that solve real-world problems.
+
+- 🎓 Valedictorian in Computer Science with a specialization in Big Data and Data Analysis  
+- 🧠 Deep interest in AI, data science, and decision-making systems  
+- 🛠️ Experienced with Python, SQL, React.js, Nest.js, and data visualization tools  
+- 📊 Contributor to open-source and academic research projects involving statistical and AI techniques  </p>
 
 ###
 <h2 align="left">🚀 Projects</h2>
