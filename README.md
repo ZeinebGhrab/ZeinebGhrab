@@ -17,6 +17,10 @@
 - 🛠️ Experienced with Python, SQL, React.js, Nest.js, and data visualization tools  
 - 📊 Contributor to open-source and academic research projects involving statistical and AI techniques  </p>
 
+<p align="left">
+🔗 Check out my professional portfolio here: <a href="https://zeinebghrab.github.io/" target="_blank" rel="noopener noreferrer">https://zeinebghrab.github.io/</a>
+</p>
+
 ###
 <h2 align="left">🚀 Projects</h2>
 
