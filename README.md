@@ -25,7 +25,7 @@
  Stroke Clinical Data Statistical Analysis
   </a>
  </h4>
-<p>Performed statistical analysis on stroke-related clinical data to explore associations between NIHSS scores, age, lifestyle factors, and stroke presence. Integrated visualizations and hypothesis testing for medical insights.<br/>
+<p>Performed statistical analysis on stroke clinical data to investigate associations between NIHSS scores, age, lifestyle factors, and stroke presence, integrating visualizations and hypothesis testing for medical insights.<br/>
 <b>Stack:</b> Python, Pandas, SciPy, Seaborn, Matplotlib</p>
 
 <h4 align="left">⚙️ 
@@ -35,6 +35,14 @@
 </h4>
 <p>Built a minimalist VCS in C for Linux, featuring SHA-256 file hashing, blob creation, WorkTree management, and filesystem snapshots.<br/>
 <b>Stack:</b> C, Linux, GCC</p>
+
+<h4 align="left">🌐  
+ <a href="https://github.com/ZeinebGhrab/IDSD-website">
+   IDSD Website
+ </a>
+</h4>
+<p>Developed an IDSD showcase website presenting the Data Engineering and Decision Systems program at ENET'Com, with student profiles and career opportunities.<br/>
+<b>Stack:</b> HTML5, CSS3, XML, XSLT, XPath, XQuery</p>
 
 <h4 align="left">📚 
  <a href="https://github.com/ZeinebGhrab/BookMatch-AI">
