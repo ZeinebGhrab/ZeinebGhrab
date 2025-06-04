@@ -26,7 +26,7 @@
 <h2 align="left">🚀 Projects</h2>
 
 <h4 align="left">🧠
-  <a href="https://github.com/ZeinebGhrab/Thrombolysis-Factors-Analysis" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/ZeinebGhrab/Stroke-Clinical-Data-Statistical-Analysis" target="_blank" style="text-decoration: none; color: inherit;">
  Stroke Clinical Data Statistical Analysis
   </a>
  </h4>
