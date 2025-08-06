@@ -25,6 +25,14 @@
 ###
 <h2 align="left">🚀 Projects</h2>
 
+<h4 align="left">🚗
+  <a href="https://github.com/ZeinebGhrab/kpit-intelligent-dtc" target="_blank" style="text-decoration: none; color: inherit;">
+  Intelligent DTC Test Case Generator
+  </a>
+ </h4>
+<p>Developed an AI-powered system for automatic Robot Framework test case generation from automotive DTC data using a fine-tuned T5 model and a PyQt5 interface.<br/>
+<b>Stack:</b> Python, PyTorch, Transformers (T5), Pandas, PyQt5, Robot Framework</p>
+
 <h4 align="left">🧠
   <a href="https://github.com/ZeinebGhrab/Stroke-Clinical-Data-Statistical-Analysis" target="_blank" style="text-decoration: none; color: inherit;">
  Stroke Clinical Data Statistical Analysis
