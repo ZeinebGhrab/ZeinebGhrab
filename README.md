@@ -81,7 +81,11 @@
 <p>Designed and built a full-stack web application for managing inventory data efficiently. <br/>
 <b>Stack:</b> Flask, React.js, TypeScript, Bootstrap, Python</p>
 
-<h4 align="left">🧾 Automated Receipt Printing System</h4>
+<h4 align="left">🧾
+  <a href="https://github.com/ZeinebGhrab/princo">
+   Automated Receipt Printing System
+  </a>
+  </h4>
 <p>Developed a complete solution consisting of a web platform and a desktop application to automate receipt printing from an e-commerce platform.<br/>
 <b>Stack:</b> ReactJs, ElectronJs, NestJs</p>
 
