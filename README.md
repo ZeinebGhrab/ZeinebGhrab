@@ -19,7 +19,7 @@
 
 <p align="left">
 <strong>🔗 Check out my professional portfolio here :</strong> 
-<a href="https://zeinebghrab.github.io/" target="_blank" rel="noopener noreferrer">My Professional Portfolio</a>
+<a href="https://zeinebghrab.vercel.app/" target="_blank" rel="noopener noreferrer">My Professional Portfolio</a>
 </p>
 
 ###
