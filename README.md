@@ -1,4 +1,4 @@
-<h1 align="left">Data Engineering Enthusiast | Exploring AI, Machine Learning & Analytics</h1>
+<h1 align="left">Data & Decisional Systemes Engineering Student</h1>
 
 ###
 
