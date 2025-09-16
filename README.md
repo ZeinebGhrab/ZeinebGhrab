@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚I’m a Data Engineering and Decisional Systems engineering student at ENET'Com, passionate about transforming data into actionable insights through statistics, machine learning, and AI. With a strong background in computer science and top academic performance, I enjoy building data-driven solutions that solve real-world problems.
+<p align="left">📚I’m a Data and Decisional Systems engineering student at ENET'Com, passionate about transforming data into actionable insights through statistics, machine learning, and AI. With a strong background in computer science and top academic performance, I enjoy building data-driven solutions that solve real-world problems.
 
 - 🎓 Valedictorian in Computer Science with a specialization in Big Data and Data Analysis  
 - 🧠 Deep interest in AI, data science, and decision-making systems  
