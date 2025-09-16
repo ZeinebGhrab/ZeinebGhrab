@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h4 align="left">🧠 Data Engineering Enthusiast | Exploring AI, Machine Learning & Analytics</h4>
+<h1 align="left">Data Engineering Enthusiast | Exploring AI, Machine Learning & Analytics</h1>
 
 ###
 
