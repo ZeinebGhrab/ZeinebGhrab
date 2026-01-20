@@ -29,6 +29,14 @@
 <p>Designed and implemented an intelligent decision-support system for training center planning, combining constraint-based scheduling, optimization heuristics, and real-time conflict resolution within a secure full-stack web application.<br/>
 <b>Stack:</b> Java, Spring Boot, Optimization Algorithms, Decision Systems, JWT, JavaScript (ES6), HTML5, CSS3</p>
 
+<h4 align="left"> 🚗 
+  <a href="https://github.com/ZeinebGhrab/EduPlanner">
+    AlloCovoit – Carpooling Web Platform
+  </a>
+</h4>
+<p>Developed a modern full-stack carpooling web application allowing users to publish trips, manage reservations, and connect securely with other travelers. The platform includes user and admin dashboards, real-time updates via AJAX, email notifications, and secure authentication with role-based access control.<br/>
+<b>Stack:</b> PHP, MySQL, JavaScript (ES6), HTML5, CSS3, AJAX, PHPMailer, Composer</p>
+
 <h4 align="left">🚗
   <a href="https://github.com/ZeinebGhrab/kpit-intelligent-dtc" target="_blank" style="text-decoration: none; color: inherit;">
   Intelligent DTC Test Case Generator
