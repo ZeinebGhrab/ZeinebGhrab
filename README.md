@@ -26,8 +26,8 @@
     EduPlanner – Intelligent Scheduling & Decision Support Platform
   </a>
 </h4>
-<p>Designed and implemented an intelligent decision-support system for training center planning, combining constraint-based scheduling, optimization heuristics, and real-time conflict resolution within a secure full-stack web application.
-<b>Stack:</b> Java, Spring Boot, Optimization Algorithms, Decision Systems, JWT, JavaScript (ES6), HTML5, CSS3<p>
+<p>Designed and implemented an intelligent decision-support system for training center planning, combining constraint-based scheduling, optimization heuristics, and real-time conflict resolution within a secure full-stack web application.<br/>
+<b>Stack:</b> Java, Spring Boot, Optimization Algorithms, Decision Systems, JWT, JavaScript (ES6), HTML5, CSS3</p>
 
 <h4 align="left">🚗
   <a href="https://github.com/ZeinebGhrab/kpit-intelligent-dtc" target="_blank" style="text-decoration: none; color: inherit;">
@@ -87,7 +87,7 @@
 
 <h4 align="left">🧾
   <a href="https://github.com/ZeinebGhrab/princo">
-   Automated Receipt Printing System
+   Princo - Automated Receipt Printing System
   </a>
   </h4>
 <p>Developed a complete solution consisting of a web platform and a desktop application to automate receipt printing from an e-commerce platform.<br/>
