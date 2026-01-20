@@ -30,12 +30,20 @@
 <b>Stack:</b> Java, Spring Boot, Optimization Algorithms, Decision Systems, JWT, JavaScript (ES6), HTML5, CSS3</p>
 
 <h4 align="left"> 🚗 
-  <a href="https://github.com/ZeinebGhrab/EduPlanner">
+  <a href="https://github.com/ZeinebGhrab/AlloCovoit">
     AlloCovoit – Carpooling Web Platform
   </a>
 </h4>
 <p>Developed a modern full-stack carpooling web application allowing users to publish trips, manage reservations, and connect securely with other travelers. The platform includes user and admin dashboards, real-time updates via AJAX, email notifications, and secure authentication with role-based access control.<br/>
 <b>Stack:</b> PHP, MySQL, JavaScript (ES6), HTML5, CSS3, AJAX, PHPMailer, Composer</p>
+
+<h4 align="left"> 🚀
+  <a href="https://github.com/ZeinebGhrab/Aurora">
+    Aurora – Next-Generation Educational Platform
+  </a>
+</h4>
+<p>Developed a modern full-stack web application for educational management, enabling administrators, teachers, and students to manage courses, sessions, and attendance. Includes real-time updates, email notifications, and facial recognition for attendance verification. Supports course planning, session scheduling, and detailed student analytics.<br/>
+<b>Stack:</b> PHP, MySQL, JavaScript (ES6), HTML5, CSS3, PHPMailer, Composer, Python (DeepFace)</p>
 
 <h4 align="left">🚗
   <a href="https://github.com/ZeinebGhrab/kpit-intelligent-dtc" target="_blank" style="text-decoration: none; color: inherit;">
