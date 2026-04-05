@@ -9,7 +9,7 @@
 <p align="left">📚I’m a Data and Decisional Systems engineering student at ENET'Com, passionate about transforming data into actionable insights through statistics, machine learning, and AI. With a strong background in computer science and top academic performance, I enjoy building data-driven solutions that solve real-world problems.
 
 - 🎓 Valedictorian in Computer Science with a specialization in Big Data and Data Analysis  
-- 🧠 Deep interest in AI, data science, and decision-making systems  
+- 🧠 Deep interest in AI, data science, decision-making systems, and currently exploring Generative AI & LLMs  
 - 🛠️ Experienced with Python, SQL, React.js, Nest.js, and data visualization tools  
 - 📊 Contributor to open-source and academic research projects involving statistical and AI techniques  </p>
 
@@ -20,6 +20,14 @@
 
 ###
 <h2 align="left">🚀 Projects</h2>
+
+<h4 align="left"> 📚 
+  <a href="https://github.com/ZeinebGhrab/SparkHire-AI">
+    ⚡ SparkHire AI – Intelligent Vocal Interview Platform
+  </a>
+</h4>
+<p>Developed an AI-powered platform for automated voice-based interviews with real-time evaluation using speech recognition, LLMs, and computer vision, generating structured scoring and decision-support reports for recruiters.<br/>
+<b>Stack:</b> Python, FastAPI, MongoDB, WebSocket, PySide6, Whisper, Llama 3.2, Edge-TTS, MediaPipe, HSEmotion</p>
 
 <h4 align="left"> 📚 
   <a href="https://github.com/ZeinebGhrab/EduPlanner">
