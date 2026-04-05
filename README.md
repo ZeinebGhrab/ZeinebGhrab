@@ -21,9 +21,9 @@
 ###
 <h2 align="left">🚀 Projects</h2>
 
-<h4 align="left"> 📚 
+<h4 align="left"> ⚡
   <a href="https://github.com/ZeinebGhrab/SparkHire-AI">
-    ⚡ SparkHire AI – Intelligent Vocal Interview Platform
+     SparkHire AI – Intelligent Vocal Interview Platform
   </a>
 </h4>
 <p>Developed an AI-powered platform for automated voice-based interviews with real-time evaluation using speech recognition, LLMs, and computer vision, generating structured scoring and decision-support reports for recruiters.<br/>
