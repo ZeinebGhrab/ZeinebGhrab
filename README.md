@@ -16,13 +16,14 @@
 ###
 
 <p align="left">
-📚 I’m a Data & Decisional Systems Engineering student at ENET'Com, passionate about transforming data into actionable insights through statistics, machine learning, and artificial intelligence. I enjoy designing intelligent systems that combine data, algorithms, and real-world impact.
+📚 I am a Data & Decisional Systems Engineering student at ENET'Com, passionate about building intelligent systems that transform data into actionable insights.
 
-- 🎓 Valedictorian in Computer Science (Big Data & Data Analysis specialization)  
-- 🧠 Strong interest in AI, data science, decision systems, and currently exploring Generative AI, LLMs, and advanced NLP  
-- ⚙️ Experience building end-to-end AI systems (ASR · LLM · TTS · Computer Vision pipelines)  
-- 🛠️ Skilled in Python, SQL, FastAPI, React.js, Nest.js, and data visualization  
-- 📊 Contributor to academic and AI-driven projects solving real-world problems  
+- 🎓 Valedictorian in Data & Decisional Systems Engineering  
+- 🎓 Valedictorian in Computer Science (Big Data & Data Analysis)  
+- 🧠 Passionate about AI, Data Science, LLMs, and Generative AI  
+- ⚙️ Experienced in building end-to-end AI systems (ASR · LLM · TTS · Computer Vision)  
+- 💻 Full-stack developer (React, FastAPI, NestJS, PHP)  
+- 📊 Interested in Decision Systems, Optimization, and Applied AI  
 </p>
 
 <p align="left">
