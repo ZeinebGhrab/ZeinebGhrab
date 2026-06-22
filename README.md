@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Generative%20AI-A855F7?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Engineering-8B5CF6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-6C63FF?style=for-the-badge&logoColor=white"/>
 </p>
 </div>
 
