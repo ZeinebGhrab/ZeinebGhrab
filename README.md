@@ -1,8 +1,13 @@
 <h1 align="center">Data & Decisional Systems Engineering Student</h1>
-
-<p align="center">
-🚀 AI Engineering · Generative AI · LLMs · Data Engineering
+<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/AI%20Engineering-6C63FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-A855F7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Engineering-8B5CF6?style=for-the-badge&logoColor=white"/>
 </p>
+</div>
+
 
 ###
 
@@ -192,4 +197,18 @@ Developed an AI-powered platform for automated voice-based interviews with real-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+</div>
+
+## 📊 GitHub Stats
+ 
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeinebGhrab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=6C63FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinebGhrab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9"/>
+<br/>
+<img width="70%" src="https://streak-stats.demolab.com?user=ZeinebGhrab&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=6C63FF&currStreakLabel=A855F7"/>
+</div>
+
+ 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A855F7&height=100&section=footer"/>
 </div>
