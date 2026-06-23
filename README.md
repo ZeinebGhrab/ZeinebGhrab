@@ -44,7 +44,6 @@
 </tr>
 </table>
 
-<br/>
 
 ## 🚀 Projects
 
@@ -202,7 +201,6 @@ Designed and developed an immersive Android mobile application to promote global
 </tr>
 </table>
 
-<br/>
 
 ## 🔧 My Tech Stack
 
@@ -286,8 +284,6 @@ Designed and developed an immersive Android mobile application to promote global
 </tr>
 </table>
 
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -306,7 +302,3 @@ Designed and developed an immersive Android mobile application to promote global
 <img width="100%" src="https://streak-stats.demolab.com?user=ZeinebGhrab&hide_border=true&background=ffffff&ring=A855F7&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=2d2d2d&sideNums=2d2d2d&dates=9ca3af&border_radius=14"/>
 
 </div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:7C3AED&height=140&section=footer"/>
