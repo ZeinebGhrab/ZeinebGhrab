@@ -3,7 +3,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+from+data;AI+%7C+Generative+AI+%7C+LLMs;Full-Stack+%2B+Applied+AI+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+from+data;AI+%7C+Generative+AI+%7C+LLMs;Full-Stack+%2B&Applied+AI+Engineer" alt="Typing SVG" />
 
 <br/>
 
