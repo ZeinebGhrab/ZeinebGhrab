@@ -288,16 +288,6 @@ Designed and developed an immersive Android mobile application to promote global
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ZeinebGhrab&show_icons=true&theme=radical&hide_border=true&bg_color=ffffff&title_color=7C3AED&icon_color=A855F7&text_color=2d2d2d&border_radius=14"/>
-</td>
-<td valign="top" width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinebGhrab&layout=compact&theme=radical&hide_border=true&bg_color=ffffff&title_color=7C3AED&text_color=2d2d2d&border_radius=14"/>
-</td>
-</tr>
-</table>
 
 <img width="100%" src="https://streak-stats.demolab.com?user=ZeinebGhrab&hide_border=true&background=ffffff&ring=A855F7&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=2d2d2d&sideNums=2d2d2d&dates=9ca3af&border_radius=14"/>
 
