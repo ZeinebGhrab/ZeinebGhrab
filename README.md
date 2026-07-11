@@ -13,9 +13,19 @@
 <img src="https://img.shields.io/badge/Data%20Engineering-9D45D9?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full%20Stack%20Developer-A855F7?style=flat-square&logoColor=white"/>
 <br/>
-<p>
-  <a href="https://zeinebghrab.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/zeineb-ghrab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <a href="https://zeinebghrab.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zeineb-ghrab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:zeinebghrab8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ZeinebGhrab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 </div>
@@ -290,5 +300,23 @@ Designed and developed an immersive Android mobile application to promote global
 
 
 <img width="100%" src="https://streak-stats.demolab.com?user=ZeinebGhrab&hide_border=true&background=ffffff&ring=A855F7&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=2d2d2d&sideNums=2d2d2d&dates=9ca3af&border_radius=14"/>
+
+</div>
+
+## 💬 Open to discussing:
+
+<div align="center">
+
+<b>
+Machine Learning • Data Analytics • Generative AI • RAG Applications • MLOps • Full Stack AI Development
+</b>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/🤝_Collaboration-Open-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💼_Internship_Opportunities-Available-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💡_AI_%26_Data_Projects-Welcome-purple?style=for-the-badge"/>
+</p>
 
 </div>
