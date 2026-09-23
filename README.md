@@ -39,14 +39,15 @@
 <tr>
 <td>
 
-📚 I am a Data & Decisional Systems Engineering student at ENET'Com, passionate about building intelligent systems that transform data into actionable insights.
+📚 I am a **Computer Science Engineering student in a double-degree program at ENSEIRB-MATMECA – Bordeaux INP, in partnership with ENET’Com**, with a strong interest in AI and Data.
 
-- 🎓 Valedictorian in Data & Decisional Systems Engineering
-- 🎓 Valedictorian in Computer Science (Big Data & Data Analysis)
-- 🧠 Passionate about AI, Data Science, LLMs, and Generative AI
-- ⚙️ Experienced in building end-to-end AI systems (ASR · LLM · TTS · Computer Vision)
-- 💻 Full-stack developer (React, FastAPI, NestJS, PHP)
-- 📊 Interested in Decision Systems, Optimization, and Applied AI
+* 🎓 **Four-time Valedictorian** throughout my academic journey
+* 🧠 Passionate about **Artificial Intelligence, Data Science, Generative AI, LLMs, NLP, and RAG**
+* ⚙️ Interested in building **end-to-end AI systems** and intelligent data-driven applications
+* 💻 Experience with **Python, Java, React, FastAPI, Spring Boot, and LangChain**
+* 📊 Interested in **Data Engineering, AI Engineering, Decision Systems, and Applied AI**
+* 🚀 Currently looking for a **3–4 month summer internship starting June 2027** in AI, Data Engineering, or Software Engineering
+
 
 </td>
 </tr>
@@ -58,6 +59,20 @@
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+<h3>🛍️ H&M Retail Intelligence Platform</h3>
+<b>End-to-End Retail Data & AI Platform</b>
+
+Developed a production-oriented retail intelligence platform combining Big Data processing, machine learning, MLOps, real-time streaming, and automated orchestration for sales analytics, customer segmentation, and predictive insights.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
+
+<br/><br/> <a href="https://github.com/ZeinebGhrab/HM-Retail-Intelligence-platform"> <img src="https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</td>
+
+
 <td width="50%" valign="top">
 
 <h3>⚡ SparkHire AI</h3>
@@ -73,6 +88,10 @@ Developed an AI-powered platform for automated voice-based interviews with real-
 </a>
 
 </td>
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h3>📚 EduPlanner</h3>
@@ -88,9 +107,7 @@ Designed and implemented an intelligent decision-support system for training cen
 </a>
 
 </td>
-</tr>
-
-<tr>
+  
 <td width="50%" valign="top">
 
 <h3>🚗 AlloCovoit</h3>
@@ -106,6 +123,11 @@ Developed a modern full-stack carpooling web application allowing users to publi
 </a>
 
 </td>
+
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h3>🚀 Aurora</h3>
@@ -121,11 +143,8 @@ Developed a modern full-stack web application for educational management, enabli
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
-
 <h3>🧠 Stroke Clinical Data Statistical Analysis</h3>
 
 Performed statistical analysis on stroke clinical data to investigate associations between NIHSS scores, age, lifestyle factors, and stroke presence, integrating visualizations and hypothesis testing for medical insights.
@@ -135,21 +154,6 @@ Performed statistical analysis on stroke clinical data to investigate associatio
 <br/><br/>
 <a href="https://github.com/ZeinebGhrab/Stroke-Clinical-Data-Statistical-Analysis">
     <img src="https://img.shields.io/badge/View_Project-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>⚙️ MiniGit</h3>
-<b>Git-inspired lightweight version control system for Linux</b>
-
-Built a minimalist VCS in C for Linux, featuring SHA-256 file hashing, blob creation, WorkTree management, and filesystem snapshots.
-
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/GCC-A855F7?style=flat-square&logoColor=white"/>
-
-<br/><br/>
-<a href="https://github.com/ZeinebGhrab/MiniGit">
-    <img src="https://img.shields.io/badge/View_Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -170,6 +174,27 @@ Developed an IDSD showcase website presenting the Data Engineering and Decision 
 </a>
 
 </td>
+
+<td width="50%" valign="top">
+
+<h3>⚙️ MiniGit</h3>
+<b>Git-inspired lightweight version control system for Linux</b>
+
+Built a minimalist VCS in C for Linux, featuring SHA-256 file hashing, blob creation, WorkTree management, and filesystem snapshots.
+
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/GCC-A855F7?style=flat-square&logoColor=white"/>
+
+<br/><br/>
+<a href="https://github.com/ZeinebGhrab/MiniGit">
+    <img src="https://img.shields.io/badge/View_Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <h3>📚 BookMatch AI</h3>
@@ -185,9 +210,7 @@ Built a smart book recommendation platform powered by an AI agent that personali
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 <h3>🧹 CleanSim App</h3>
@@ -203,21 +226,7 @@ Developed a web-based simulation featuring an autonomous AI agent capable of nav
 </a>
 
 </td>
-<td width="50%" valign="top">
 
-<h3>📦 InvenPro</h3>
-<b>Inventory Management Web Application</b>
-
-Designed and built a full-stack web application for managing inventory data efficiently.
-
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-<br/><br/>
-<a href="https://github.com/ZeinebGhrab/InvenPro">
-    <img src="https://img.shields.io/badge/View_Project-F97316?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
 </tr>
 
 <tr>
@@ -236,6 +245,28 @@ Developed a complete solution consisting of a web platform and a desktop applica
 </a>
 
 </td>
+
+<td width="50%" valign="top">
+
+<h3>📦 InvenPro</h3>
+<b>Inventory Management Web Application</b>
+
+Designed and built a full-stack web application for managing inventory data efficiently.
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<br/><br/>
+<a href="https://github.com/ZeinebGhrab/InvenPro">
+    <img src="https://img.shields.io/badge/View_Project-F97316?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h3>🧮 Invoice Generator</h3>
@@ -251,9 +282,7 @@ Designed and implemented a web application for generating, viewing, and download
 </a>
 
 </td>
-</tr>
-
-<tr>
+  
 <td width="50%" valign="top">
 
 <h3>🌍 Discover World</h3>
