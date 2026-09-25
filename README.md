@@ -5,6 +5,13 @@
 
 <br/>
 
+<p align="center">
+  <a href="./README.md"><img src="https://img.shields.io/badge/🇬🇧_English-selected-6C63FF?style=for-the-badge"/></a>
+  <a href="./README.fr.md"><img src="https://img.shields.io/badge/🇫🇷_Français-EC4899?style=for-the-badge"/></a>
+</p>
+
+<br/>
+
 <img src="https://img.shields.io/badge/AI%20Engineering-6C63FF?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLMs-A855F7?style=for-the-badge&logoColor=white"/>
@@ -39,14 +46,15 @@
 <tr>
 <td>
 
-📚 I am a **Computer Science Engineering student in a double-degree program at ENSEIRB-MATMECA – Bordeaux INP, in partnership with ENET’Com**, with a strong interest in AI and Data.
+I'm **Zeineb**, a Computer Science Engineering student in a **double-degree program at ENSEIRB-MATMECA – Bordeaux INP**, in partnership with **ENET'Com**, specializing in **Data Engineering & Decision Systems**. I build **end-to-end AI systems** — from data pipelines to LLM-powered applications — turning messy, real-world data into products people can actually use.
 
-* 🎓 **Four-time Valedictorian** throughout my academic journey
-* 🧠 Passionate about **Artificial Intelligence, Data Science, Generative AI, LLMs, NLP, and RAG**
-* ⚙️ Interested in building **end-to-end AI systems** and intelligent data-driven applications
-* 💻 Experience with **Python, Java, React, FastAPI, Spring Boot, and LangChain**
-* 📊 Interested in **Data Engineering, AI Engineering, Decision Systems, and Applied AI**
-* 🚀 Currently looking for a **3–4 month summer internship starting June 2027** in AI, Data Engineering, or Software Engineering
+* 🎓 **Four-time Valedictorian** — top of my class throughout my entire academic journey
+* 🧠 Deep interest in **Artificial Intelligence, Generative AI, LLMs, NLP & RAG**
+* ⚙️ Proven track record shipping **full-stack AI platforms**: Big Data pipelines, MLOps, real-time streaming, and multi-agent LLM systems
+* 💻 Core stack: **Python, Java, React, FastAPI, Spring Boot, LangChain**
+* 📊 Focus areas: **Data Engineering, AI Engineering, Decision Systems, Applied AI**
+* 📍 Based in **France**
+* 🚀 Actively looking for a **3–4 month summer internship starting June 2027** in AI, Data Engineering, or Software Engineering — let's build something great together
 
 
 </td>
