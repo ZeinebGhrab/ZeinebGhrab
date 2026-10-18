@@ -4,50 +4,27 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=EC4899&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+from+data;AI+%7C+Generative+AI+%7C+LLMs;Full-Stack+%2B+Applied+AI+Engineer" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/🇬🇧_English-selected-6C63FF?style=for-the-badge"/></a>
-  <a href="./README.fr.md"><img src="https://img.shields.io/badge/🇫🇷_Français-EC4899?style=for-the-badge"/></a>
+  <a href="./README.md"><img src="img/lang-en.svg" alt="English" /></a>&nbsp;
+  <a href="./README.fr.md"><img src="img/lang-fr.svg" alt="Français" /></a>
 </p>
 
-<br/>
+<img src="img/tags.svg" alt="AI Engineering • Generative AI • LLMs • Data Engineering • Full Stack Developer • Software Engineering" />
 
-<img src="https://img.shields.io/badge/AI%20Engineering-6C63FF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-A855F7?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Engineering-D946EF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-EC4899?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-F59E0B?style=for-the-badge&logoColor=white"/>
-<br/>
 <p align="center">
-  <a href="https://zeinebghrab.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/zeineb-ghrab/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:zeinebghrab8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/ZeinebGhrab" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://zeinebghrab.vercel.app/" target="_blank"><img src="img/link-portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/zeineb-ghrab/" target="_blank"><img src="img/link-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="mailto:zeinebghrab8@gmail.com" target="_blank"><img src="img/link-gmail.svg" alt="Gmail" /></a>
+  <a href="https://github.com/ZeinebGhrab" target="_blank"><img src="img/link-github.svg" alt="GitHub" /></a>
 </p>
 
 </div>
 
 <img src="img/sec-about.svg" alt="About me" width="100%" />
 
-I'm **Zeineb**, a Computer Science Engineering student in a **double-degree program at ENSEIRB-MATMECA – Bordeaux INP**, in partnership with **ENET'Com**, specializing in **Data Engineering & Decision Systems**. I build **end-to-end AI systems** — from data pipelines to LLM-powered applications — turning messy, real-world data into products people can actually use.
-
-* 🎓 **Four-time Valedictorian** — top of my class throughout my entire academic journey
-* 🧠 Deep interest in **Artificial Intelligence, Generative AI, LLMs, NLP & RAG**
-* ⚙️ Proven track record shipping **full-stack AI platforms**: Big Data pipelines, MLOps, real-time streaming, and multi-agent LLM systems
-* 💻 Core stack: **Python, Java, React, FastAPI, Spring Boot, LangChain**
-* 📊 Focus areas: **Data Engineering, AI Engineering, Software Engineering & Development, Decision Systems, Applied AI**
-* 📍 Based in **France**
-* 🚀 Actively looking for a **3–4 month summer internship starting June 2027** in AI, Data Engineering, or Software Engineering — let's build something great together
+<img src="img/about.svg" alt="I'm Zeineb, a Computer Science Engineering student in a double-degree program at ENSEIRB-MATMECA – Bordeaux INP, in partnership with ENET'Com, specializing in Data Engineering &amp; Decision Systems. I build end-to-end AI systems — from data pipelines to LLM-powered applications — turning messy, real-world data into products people can actually use. Four-time Valedictorian — top of my class throughout my entire academic journey Deep interest in Artificial Intelligence, Generative AI, LLMs, NLP &amp; RAG Proven track record shipping full-stack AI platforms: Big Data pipelines, MLOps, real-time streaming, and multi-agent LLM systems Core stack: Python, Java, React, FastAPI, Spring Boot, LangChain Focus areas: Data Engineering, AI Engineering, Software Engineering &amp; Development, Decision Systems, Applied AI Based in France Actively looking for a 3–4 month summer internship starting June 2027 in AI, Data Engineering, or Software Engineering — let's build something great together" width="100%" />
 
 <br/>
 
@@ -88,13 +65,9 @@ I'm **Zeineb**, a Computer Science Engineering student in a **double-degree prog
 <img src="img/sec-discuss.svg" alt="Open to Discussing" width="100%" />
 
 <div align="center">
-<b>Machine Learning • Data Analytics • Generative AI • RAG Applications • MLOps • Full Stack AI Development</b>
 
-<br/>
-<br/>
-<img src="https://img.shields.io/badge/🤝_Collaboration-Open-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💼_Internship_Opportunities-Available-8D52E8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💡_AI_%26_Data_Projects-Welcome-EC4899?style=for-the-badge"/>
+<img src="img/discuss.svg" alt="Machine Learning • Data Analytics • Generative AI • RAG Applications • MLOps • Full Stack AI Development — Collaboration: Open, Internship Opportunities: Available, AI &amp; Data Projects: Welcome" width="100%" />
+
 </div>
 
 <br/>
