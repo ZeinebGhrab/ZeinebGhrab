@@ -2,7 +2,7 @@
 
 <img src="img/banner.svg" alt="Zeineb Ghrab" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=EC4899&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+from+data;AI+%7C+Generative+AI+%7C+LLMs;Full-Stack+%2B+Applied+AI+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=22&duration=3000&pause=900&color=A8325E&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+from+data;AI+%7C+Generative+AI+%7C+LLMs;Full-Stack+%2B+Applied+AI+Engineer" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 
 <img src="img/sec-about.svg" alt="About me" width="100%" />
 
-<img src="img/about.svg" alt="I'm Zeineb, a Computer Science Engineering student in a double-degree program at ENSEIRB-MATMECA – Bordeaux INP, in partnership with ENET'Com, specializing in Data Engineering &amp; Decision Systems. I build end-to-end AI systems — from data pipelines to LLM-powered applications — turning messy, real-world data into products people can actually use. Four-time Valedictorian — top of my class throughout my entire academic journey Deep interest in Artificial Intelligence, Generative AI, LLMs, NLP &amp; RAG Proven track record shipping full-stack AI platforms: Big Data pipelines, MLOps, real-time streaming, and multi-agent LLM systems Core stack: Python, Java, React, FastAPI, Spring Boot, LangChain Focus areas: Data Engineering, AI Engineering, Software Engineering &amp; Development, Decision Systems, Applied AI Based in France Actively looking for a 3–4 month summer internship starting June 2027 in AI, Data Engineering, or Software Engineering — let's build something great together" width="100%" />
+<img src="img/about.svg" alt="Zeineb Ghrab: double-degree computer science engineering student at ENSEIRB-MATMECA (Bordeaux INP) and ENET'Com, specializing in Data Engineering &amp; Decision Systems; four-time valedictorian; looking for a 3–4 month internship from June 2027." width="100%" />
 
 <br/>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=ZeinebGhrab&hide_border=true&background=ffffff&ring=A855F7&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=2d2d2d&sideNums=2d2d2d&dates=9ca3af&border_radius=14"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=ZeinebGhrab&hide_border=true&background=FFF5EE&ring=A8325E&fire=E8681A&currStreakNum=2B1B3D&currStreakLabel=7C2D4A&sideNums=2B1B3D&sideLabels=54456A&dates=6F6283&border_radius=14&stroke=EBD6CC"/>
 
 </div>
 

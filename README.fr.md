@@ -2,7 +2,7 @@
 
 <img src="img/fr/banner.svg" alt="Zeineb Ghrab" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=EC4899&center=true&vCenter=true&width=650&lines=Construire+des+syst%C3%A8mes+intelligents+%C3%A0+partir+de+donn%C3%A9es;IA+%7C+IA+g%C3%A9n%C3%A9rative+%7C+LLMs;Ing%C3%A9nieure+Full-Stack+%2B+IA+appliqu%C3%A9e" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=22&duration=3000&pause=900&color=A8325E&center=true&vCenter=true&width=650&lines=Construire+des+syst%C3%A8mes+intelligents+%C3%A0+partir+de+donn%C3%A9es;IA+%7C+IA+g%C3%A9n%C3%A9rative+%7C+LLMs;Ing%C3%A9nieure+Full-Stack+%2B+IA+appliqu%C3%A9e" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 
 <img src="img/fr/sec-about.svg" alt="À propos" width="100%" />
 
-<img src="img/fr/about.svg" alt="Je suis Zeineb, étudiante ingénieure en informatique en double diplôme à l'ENSEIRB-MATMECA – Bordeaux INP, en partenariat avec l'ENET'Com, spécialisée en Data Engineering &amp; Systèmes de Décision. Je construis des systèmes d'IA de bout en bout — des pipelines de données aux applications propulsées par des LLMs — en transformant des données réelles et désordonnées en produits réellement utilisables. Major de promotion à quatre reprises — première de ma classe tout au long de mon parcours académique Vif intérêt pour l'Intelligence Artificielle, l'IA générative, les LLMs, le NLP &amp; le RAG Expérience avérée dans la livraison de plateformes d'IA full-stack : pipelines Big Data, MLOps, streaming temps réel et systèmes LLM multi-agents Stack principale : Python, Java, React, FastAPI, Spring Boot, LangChain Domaines de prédilection : Data Engineering, AI Engineering, Génie logiciel &amp; Développement, Systèmes de Décision, IA appliquée Basée en France À la recherche active d'un stage d'été de 3 à 4 mois à partir de juin 2027 en IA, Data Engineering ou Software Engineering — construisons quelque chose de formidable ensemble" width="100%" />
+<img src="img/fr/about.svg" alt="Zeineb Ghrab : étudiante ingénieure en informatique en double diplôme à l'ENSEIRB-MATMECA (Bordeaux INP) et à l'ENET'Com, spécialisée en Data Engineering &amp; Systèmes de Décision ; major de promotion à quatre reprises ; à la recherche d'un stage de 3 à 4 mois à partir de juin 2027." width="100%" />
 
 <br/>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=ZeinebGhrab&hide_border=true&background=ffffff&ring=A855F7&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=2d2d2d&sideNums=2d2d2d&dates=9ca3af&border_radius=14"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=ZeinebGhrab&hide_border=true&background=FFF5EE&ring=A8325E&fire=E8681A&currStreakNum=2B1B3D&currStreakLabel=7C2D4A&sideNums=2B1B3D&sideLabels=54456A&dates=6F6283&border_radius=14&stroke=EBD6CC"/>
 
 </div>
 
